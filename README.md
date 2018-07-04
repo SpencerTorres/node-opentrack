@@ -195,11 +195,11 @@ OpenTrack uses 6 little endian doubles for position and rotation.
 
 48 bytes are used in the following format:
 
-| octet | name       |
-|-------|------------|
-| 0     | position x |
-| 8     | position y |
-| 16    | position z |
-| 24    | rotation x |
-| 32    | rotation y |
-| 40    | rotation z |
+| offset | name       |
+|--------|------------|
+| 0      | position x |
+| 8      | position y |
+| 16     | position z |
+| 24     | rotation x |
+| 32     | rotation y |
+| 40     | rotation z |
