@@ -1,6 +1,6 @@
 {
   "name": "opentrack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package for communicating with opentrack via UDP over network.",
   "main": "src/",
   "repository": {
