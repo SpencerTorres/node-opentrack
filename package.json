@@ -1,0 +1,23 @@
+{
+  "name": "opentrack",
+  "version": "1.0.0",
+  "description": "A package for communicating with opentrack via UDP over network.",
+  "main": "src/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerTorres/node-opentrack.git"
+  },
+  "keywords": [
+    "opentrack",
+    "udp",
+    "network",
+    "server",
+    "client"
+  ],
+  "author": "Spencer Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpencerTorres/node-opentrack/issues"
+  },
+  "homepage": "https://github.com/SpencerTorres/node-opentrack#readme"
+}
