@@ -193,7 +193,7 @@ This is the format used by opentrack when sending and receiving data.
 
 OpenTrack uses 6 little endian doubles for position and rotation.
 
-48 bits are used in the following format:
+48 bytes are used in the following format:
 
 | octet | name       |
 |-------|------------|
